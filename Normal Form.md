@@ -258,5 +258,13 @@ A가 B를 다치 결정 === B가 A에 다치 종속
 
 <br>
 
+# 읽을 거리 (1~3 정규화) 
+1. Microsoft 정규화 설명  
+https://docs.microsoft.com/en-US/office/troubleshoot/access/database-normalization-description
+2. Database 정규화 in SQL  
+https://www.sqlservercentral.com/articles/database-normalization-in-sql-with-examples
+
+<br>
+
 # 여담
 너무 많은 정규화는 JOIN으로 인해 성능이 저하될 수 있다고 한다. ~~보통 3NF까지 진행한다고..~~
