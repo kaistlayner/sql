@@ -202,7 +202,7 @@ A가 B를 다치 결정 === B가 A에 다치 종속
 # 4NF
 [다치종속](#다치-종속) 관계인 A->>B가 존재할 때, R의 모든 속성도 A에 [함수 종속](#완전-함수-종속)이어야 한다.
 
-<img src='./img/normalize/5정규화.jpg' height=100>
+<img src='./img/normalize/4정규화.jpg' height=100>
 
 ### before
 |강의명|*교수|*교재|
@@ -235,6 +235,9 @@ A가 B를 다치 결정 === B가 A에 다치 종속
 
 # 5NF (Project Join Normal Form)
 [조인 종속](#조인-종속)이 없어야 한다. (더 이상 분해 불가능 하도록)
+
+<img src='./img/normalize/5정규화.jpg' height=100>
+
 ### before
 |강의 중인 강좌|교수|*추천 도서|
 |-|-|-|
